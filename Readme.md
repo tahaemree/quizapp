@@ -163,7 +163,7 @@ class SignUpValidators {
     // Firebase email check implementation
   }
 }
-
+```
 ![Sign Up Page Screenshot](docs/images/signup_page.png)
 
 ### 3. Profil Tamamlama Sayfası (Complete Profile Page)
@@ -238,7 +238,7 @@ class QuizCategory {
       .execute();
   }
 }
-
+```
 ![Home Page Screenshot](docs/images/home_page.png)
 
 ### 5. Quiz Sayfası (Quiz Page)
@@ -282,7 +282,7 @@ class QuizController extends GetxController {
     // İki yanlış şıkkı kaldır
   }
 }
-
+```
 ![Quiz Page Screenshot](docs/images/quiz_page.png)
 
 ### 6. Profil Sayfası (Profile Page)
@@ -332,7 +332,7 @@ class UserStats {
     // Firebase ve Supabase güncelleme
   }
 }
-
+```
 ![Profile Page Screenshot](docs/images/profile_page.png)
 
 ### 7. Drawer Menü
@@ -469,7 +469,7 @@ class LeaderboardController extends GetxController {
     // Manual refresh implementation
   }
 }
-
+```
 ![Scores Page Screenshot](docs/images/scores_page.png)
 
 ## 📸 Ekran Görüntüleri
@@ -563,7 +563,7 @@ flutter build ios --release
 
 # Web için
 flutter build web --release
-
+```
 ## 🤝 Katkıda Bulunma
 
 1. Fork'layın
