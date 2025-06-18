@@ -472,29 +472,6 @@ class LeaderboardController extends GetxController {
 ```
 ![Scores Page Screenshot](docs/images/scores_page.png)
 
-## 📸 Ekran Görüntüleri
-
-Bu bölümde uygulamanın her sayfasından ekran görüntüleri ekleyebilirsiniz. Ekran görüntülerini eklemek için:
-
-1. `docs/images` klasörü oluşturun:
-```bash
-mkdir -p docs/images
-```
-
-2. Ekran görüntülerini aşağıdaki isimlerle kaydedin:
-```
-docs/images/
-├── login.png        # Giriş sayfası
-├── signup.png       # Kayıt sayfası
-├── profile.png      # Profil sayfası
-├── quiz.png        # Quiz sayfası
-├── scores.png      # Skor sayfası
-├── leaderboard.png # Liderlik tablosu
-├── settings.png    # Ayarlar sayfası
-├── drawer.png      # Drawer menü
-└── contact.png     # Bize ulaşın sayfası
-```
-
 ## 🔧 Geliştirici Kılavuzu
 
 ### 📋 Ön Gereksinimler
@@ -592,12 +569,7 @@ Bu proje MIT lisansı altında lisanslanmıştır - detaylar için [LICENSE](LIC
 
 ## 📞 İletişim
 
-Proje sorumlusu: [Ad Soyad]
-E-posta: [E-posta adresi]
+Proje sorumluları : Taha Emre Yağmahan , Mahmut Enes Çağlar , Mahmut Ekrem Kaftancıoğlu
+E-posta: 030122023@std.izu.edu.tr
 
 ## 🙏 Teşekkürler
-
-- Flutter ekibine
-- Firebase ekibine
-- Supabase ekibine
-- Tüm katkıda bulunanlara
