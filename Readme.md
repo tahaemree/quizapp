@@ -495,18 +495,6 @@ docs/images/
 └── contact.png     # Bize ulaşın sayfası
 ```
 
-3. Her ekran görüntüsünü README'ye ekleyin:
-
-#### 🔐 Giriş Sayfası
-![Giriş Sayfası](docs/images/login.png)
-*Modern ve kullanıcı dostu giriş arayüzü*
-
-#### 📝 Kayıt Sayfası
-![Kayıt Sayfası](docs/images/signup.png)
-*Kolay ve güvenli kayıt süreci*
-
-(Diğer sayfalar için aynı şekilde devam edin)
-
 ## 🔧 Geliştirici Kılavuzu
 
 ### 📋 Ön Gereksinimler
